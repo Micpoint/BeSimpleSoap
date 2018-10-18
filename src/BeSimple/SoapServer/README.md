@@ -21,7 +21,7 @@ Create a `composer.json` file:
 ```json
 {
     "require": {
-        "Micpoint/BeSimpleSoap": "0.2.*@dev"
+        "besimple/soap-server": "0.2.*@dev"
     }
 }
 ```
